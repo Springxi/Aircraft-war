@@ -1,0 +1,30 @@
+#Wed Nov 14 14:57:29 GMT+08:00 2012
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=evc_9_0
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+PlaneGame/PlaneGame//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path.9dab6892-c119-41a7-881a-5dfa12d46c3e=PlaneGame/PlaneGame
